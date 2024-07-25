@@ -41,4 +41,3 @@ brew install portaudio
 ```python
 streamlit run app.py
 ```
-## add instruction about installing pyaudio
