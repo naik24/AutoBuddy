@@ -1,3 +1,5 @@
+# AutoBuddy: A Car Sales 🚗 Assistant 
+
 Steps to run the project:
 
 1. Clone this repository
