@@ -9,6 +9,8 @@
 ## Keys
 The project uses to APIs: <a href = "https://fireworks.ai/">Fireworks</a> and <a href = "https://openai.com/">OpenAI</a>. The Fireworks-AI employs the LLM to classify the documents and OpenAI TTS (Text-To-Speech) is used to convert text to speech for the AI assistant.
 
+Add your API keys to line 26 and 27 in the ```app.py``` file before running the app.
+
 ## Setup
 
 1. Clone the repository:
