@@ -57,8 +57,6 @@ def end_call():
 
     output: AI assistant speaks the goodbye message
     """
-    #pygame.init()
-    #pygame.mixer.init()
 
     text = "Thank you for calling AutoBuddy. Have a wonderful day!"
     tts(text)
